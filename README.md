@@ -6,7 +6,8 @@ Html,CSS,Java and Javascript
 Proyectos en servidores         
 
 
-- 📫 How to reach me . jeremygiro340@gmail.com
+- 📫 How to reach me . jeremy.giron.economist@gmail.com
+
 
 
 <!---
